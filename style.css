@@ -1,0 +1,59 @@
+.abd{
+    color: white;
+    background-color: blue;
+    padding: 10%;
+}
+.abc{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.change{
+    padding: 15px;
+    text-align: center;
+    margin-inline-end:10px;
+}
+.abc{
+    background-color: blue;
+}
+.abc{
+    background-color: blue;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+a:hover {
+    color: #333;
+}
+.auth-buttons {
+    margin-top: 20px;
+}
+
+button {
+    float: right;
+    cursor: pointer;
+    height: 10%;
+    font-size: 16px;
+    color: white;
+    background-color: black;
+    margin-left: 10px;
+}
+marquee {
+    background-color: blue;
+    color: white;
+    padding: 1%;
+}
+p{
+    font-size: 32px;
+    font-weight: bold;
+    background-color: #333;
+    color: white;
+}
+table{
+    background-color:rgba(13,77,117,255);
+    color: white;
+    width: 100%;
+    border-collapse: collapse;
+}

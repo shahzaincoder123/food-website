@@ -1,0 +1,29 @@
+body{
+    justify-content: center;
+    background-color: blue;
+    align-items: center;
+    height: 600px;
+    display: flex;
+}
+input{
+    width: 100%;
+    color: white;
+}
+button{
+    background-color: black;
+    display: flex;
+    color: white;
+    cursor: pointer;
+}
+legend{
+    color: white;
+}
+a{
+    color: white;
+}
+label{
+    color: white;
+}
+p {
+    color: white;
+}
